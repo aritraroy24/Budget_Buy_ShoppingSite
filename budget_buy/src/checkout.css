@@ -9,8 +9,32 @@
     width: 100%;
     margin-bottom: 10px;
 }
+.emptyBasketImgContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#emptyBasketImg {
+    padding: 1.5vw;
+    margin-top: 1vw;
+    height: 5vw;
+    width: auto;
+}
+#withOutLoginBasketImg {
+    padding: 1.5vw;
+    margin-top: 1vw;
+    width: 18vw;
+    height: auto;
+}
 .checkout_title {
     margin-right: 10px;
     padding: 10px;
     border-bottom: 1px solid lightblue;
+}
+.withoutItemCheckout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
