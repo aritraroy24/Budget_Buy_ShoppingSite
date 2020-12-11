@@ -18,6 +18,8 @@
    * HTML5
    * CSS
    * React
+   * Redux
+   * Firebase
 -----
 #### Credit :pray: :pray: :pray:
 The website has been made based on the tutorial by [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/) :point_left:
